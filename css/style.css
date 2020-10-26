@@ -1151,6 +1151,7 @@ div.bl-panel-items>div>div img {
   float: left;
   width: 100%;
   border: 1px solid #ddd;
+  height: auto;
 }
 
 div.bl-panel-items {

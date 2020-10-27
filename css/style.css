@@ -1281,9 +1281,10 @@ div.bl-panel-items>div.bl-hide-current-work {
 div.bl-panel-items a.btn {
   background-color: rgba(0, 0, 0, .1);
   margin-bottom: 15px;
+  margin-right: 10px;
   height: 42px;
   line-height: 42px;
-  font-size: 15px;
+  font-size: 12px;
 }
 
 .carousel .carousel-item>img {
@@ -1387,12 +1388,12 @@ ul.social-intro li a {
   border-radius: 50%;
 }
 
-.bl-main>section:nth-child(4).bl-expand ul.social-intro li.facebook a {
-  background: #3b5998;
+.bl-main>section:nth-child(4).bl-expand ul.social-intro li.github a {
+  background: orange;
 }
 
-.bl-main>section:nth-child(4).bl-expand ul.social-intro li.twitter a {
-  background: #1da1f2;
+.bl-main>section:nth-child(4).bl-expand ul.social-intro li.hackerrank a {
+  background: #28a745;
 }
 
 .bl-main>section:nth-child(4).bl-expand ul.social-intro li.google-plus a {

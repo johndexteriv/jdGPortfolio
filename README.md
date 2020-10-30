@@ -32,10 +32,10 @@ or homeworks. For each project, make sure to have the following:
 
 https://johndexteriv.netlify.app/   https://github.com/johndexteriv/jdGPortfolio
 
-![Portfolio Home](PortfolioHome.png)
+![Portfolio Home](./images/PortfolioHome.png)
 
-![Portfolio About](PortfolioAbout.png)
+![Portfolio About](./images/PortfolioAbout.png)
 
-![Portfolio Portfolio](PortfolioPortfolio.png)
+![Portfolio Portfolio](./images/PortfolioPortfolio.png)
 
-![Portfolio Contact](PortfolioContact.png)
+![Portfolio Contact](./images/PortfolioContact.png)
